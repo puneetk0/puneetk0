@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! My Name is Puneet 👋
+
+I'm an 18-year-old web developer and UI design enthusiast who loves creating websites with a minimalistic and modern aesthetic.
 
 <!--
 **puneetk0/puneetk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
